@@ -9,7 +9,7 @@ max_runtime_secs = 120 # 120초간 automl 수행 후 가장 좋은 모델을 찾
 
 google colab 경로
 
-https://colab.research.google.com/drive/1jWUODXcHlR1rra6Zv-izKj5X3DnTG8JO?usp=sharing
+https://colab.research.google.com/drive/1oRIdDWNL_NMdwmGmrS8rK0KiJOdtt5MH?usp=sharing
 데이터 업로드 후 실행
 
 
